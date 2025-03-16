@@ -1,3 +1,5 @@
+# MyDreamer: PersonalizedText-to-VecorGenerationwithDiffusionModel
+
 # Environment Setup
 
 Clone the repository:
@@ -44,8 +46,8 @@ To evaluate the results, run:
 sh script/eval.sh
 ```
 
-## Important
-Before running the evaluation script, update the following paths in the script:
+## Before you run
+Please update the following paths in the script:
 
 * `real_folder`: Path to the folder containing real pixel images. (for FID)
 * `sample_folder`: Path to the folder containing sampled images. 
