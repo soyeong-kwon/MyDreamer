@@ -1,4 +1,4 @@
-# MyDreamer: PersonalizedText-to-VecorGenerationwithDiffusionModel
+# MyDreamer: Personalized Text-to-Vecor Generation with Diffusion Model
 
 # Environment Setup
 
@@ -19,7 +19,7 @@ dreambooth/concept_models/
 ```
 
 # Running the Model
-To run the model, execute:
+To run the model, run:
 
 ```bash
 sh script/run.sh
